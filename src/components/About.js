@@ -1,7 +1,7 @@
 function About(props){
     return (
 <>
-<p style={{ color: props.mode==='dark'?'white':'black'}} >Modify your text with textUtil. <br/>Made with ❤ by Aradhana Singh <br/> All &copy; Copurights reserved 2023.</p>
+<p style={{ color: props.mode==='dark'?'white':'black'}} >Modify your text with textUtil. <br/>Made with ❤ by Aradhana Singh <br/> All &copy; Copyrights reserved 2023.</p>
 </>
     );
 }
